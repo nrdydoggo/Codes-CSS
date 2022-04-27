@@ -1,5 +1,29 @@
-* {
+ #MusicTitle
+        {
+           margin-top: 0%; 
+           margin-left: -13%;
+        }
+        #MusicTitle>li>a
+        {
+            margin-bottom: 0%;
+            background-repeat: no-repeat;
+            color: black;
+            list-style: decimal;
+            text-decoration:none;
+            font-weight: bold;
+            font-size: 95%;
+        }
+        #mp3Player
+        {
+            margin-top: 50%;
+            margin-left: -8%;
+            width: 98%;
+        }
+       
+        * {
+
     box-sizing: border-box;
+
 }
 body 
 {
