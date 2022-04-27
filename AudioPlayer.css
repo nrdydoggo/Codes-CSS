@@ -1,0 +1,12 @@
+#playlist
+{
+    list-style: decimal;
+    background-repeat: no-repeat;
+}
+/* 세부 요소에 접근할 땐 반드시 상세히 기재한다 */
+#playlist>li>a
+{
+    text-decoration: none;
+    color: gray;
+    font-weight: bold;
+}
